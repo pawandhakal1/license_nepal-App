@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758769912945",
+    "project_id": "licensenepal-a4c86",
+    "storage_bucket": "licensenepal-a4c86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758769912945:android:84789c20e03a4258105fd0",
+        "android_client_info": {
+          "package_name": "com.license.license_nepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758769912945-n5nfj184gq77o418ar3rsffqf9oegd6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4jKLa_ncWkOPe8f0MpPL0pJ_66AUaPDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758769912945-n5nfj184gq77o418ar3rsffqf9oegd6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
